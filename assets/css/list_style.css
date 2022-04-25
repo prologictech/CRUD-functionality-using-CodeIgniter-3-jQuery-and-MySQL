@@ -1,0 +1,46 @@
+h2 {
+    color: cornflowerblue;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+thead {
+    background-color: cornflowerblue;
+}
+
+.container {
+    width: 70%;
+}
+
+td:first-child {
+    background-color: white;
+}
+
+td {
+    background-color: white;
+}
+
+.new {
+    background-color: cornflowerblue;
+
+}
+
+button {
+    background-color: cornflowerblue;
+    border-radius: 5px;
+
+}
+
+.table-hover:hover {
+    background-color: teal;
+
+}
